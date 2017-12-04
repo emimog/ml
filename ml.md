@@ -2,9 +2,12 @@
 
 ## 参考図書
 仕事ではじめる機械学習、  
-https://www.oreilly.co.jp/books/9784873118215/
+https://www.oreilly.co.jp/books/9784873118215/  
 ゼロから作るDeep Learning  
-https://www.oreilly.co.jp/books/9784873117584/
+https://www.oreilly.co.jp/books/9784873117584/  
+
+## 用語集
+https://qiita.com/Ted-HM/items/298116d03cbb9b3477e6#_reference-3681771679c368269ebb
 
 
 # 機械学習の使用場面  
