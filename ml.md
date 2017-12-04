@@ -1,7 +1,7 @@
 # はじめに 
 
 ## 参考図書
-仕事ではじめる機械学習、  
+仕事ではじめる機械学習、  
 https://www.oreilly.co.jp/books/9784873118215/  
 ゼロから作るDeep Learning  
 https://www.oreilly.co.jp/books/9784873117584/  
@@ -92,6 +92,10 @@ https://japan.zdnet.com/article/35106670/3/
 ここまで私が学びながらも勉強してきた、AI(人工知能)ですが、やはりビジネスに導入するためには「基本確認」が大事！！
 どのような課題があるのか、その課題をAI(人工知能)が解消すれば、売り上げが伸びるのか、それともコストが削減できるのか…などなど
 「AI(人工知能)を導入する必要性」を明確にする必要があります。
+
+### IBMの導入フロー
+https://www.ibm.com/developerworks/jp/linux/library/l-machine-learning-deep-learning-trs/index.html
+
 
 
 ### 目的
@@ -242,9 +246,10 @@ http://techlife.cookpad.com/entry/2017/10/30/080102
 
 #　事例
 
-https://employment.en-japan.com/engineerhub/entry/2017/11/30/110000
-
-
+https://employment.en-japan.com/engineerhub/entry/2017/11/30/110000  
+  
+https://www.nri.com/~/media/PDF/jp/opinion/teiki/chitekishisan/cs201611/cs20161103.pdf
+  
 ## Cookpad
 
 機械学習
@@ -274,4 +279,13 @@ http://blog.idcf.jp/entry/iot-operation-analysis
 ### ビデオからの人間の行動認識
 https://www.twentybn.com/
 
+### AIの見える化プラットフォーム
+http://useaible.com/useaible-machine-learning-with-no-blackbox/
+
+### 車のモデルベース開発におけるモデル生成
+https://www.ipa.go.jp/files/000057837.pdf  
+
+機械学習を活用してプラントモデルを作成する手法は利点も多く、しっかり特徴を理解して活用することでプラントモデルの精度を上げることができる。  
+しかし、機械学習を活用して作成したプラントモデルの信頼性については現在のところ証明することが難しいという課題もある。  
+関係する教師データの品質と網羅性が、できあがったプラントモデルの精度に影響することがわかった。  
 
